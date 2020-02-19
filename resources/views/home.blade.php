@@ -22,10 +22,11 @@
     <!--===============================================================================================-->
     <link rel="stylesheet" type="text/css" href="css/util.css">
     <link rel="stylesheet" type="text/css" href="css/main.css">
+    <script src={{ asset('js/main.js') }}></script>
+    <script src={{ asset('js/jquery.min.js')}}></script>
     <!--===============================================================================================-->
 </head>
 <body>
-
 <div class="limiter">
     <div class="container-table100">
         <div class="wrap-table100">
